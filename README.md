@@ -1,4 +1,7 @@
 # ESP8266-Captive-Portal
+
+ESP8266 Captive Portal with Fake Google login page.
+
 **INSTALLATION INSTRUCTIONS**
 
 **ESPBug**
@@ -33,7 +36,14 @@ by ESP8266 Community. I installed version 2.5.5 2.6.0.
 
 And YOU ARE DONE! Now, you need to open the espbug.ino and setup the correct parameters for the board.
 
-**Convert webpages**
+**DEFAULT CREDENTIALS**
+> SSID - monbug
+> PASS - pwntoown
+
+Make sure to change the default credentials in "setup.h"
+
+
+**Convert webpages** (Not A Required Step)
 
 The web pages are saved in a compress form and in bytes. A small script is available to convert you website into the correct format. this runs in Python3. In the web_converter you must add your web pages in web_pages:
 
@@ -57,9 +67,8 @@ Then you just need to run the python script knowing that anglerfish must be inst
 Then you'll need to recompile the project and upload it to the board. I know, it's not elegante, but it works.
 
 **Credits**
-CREDITS where credit is due
 
-ESP8266 Captive Portal with Google login page
+CREDITS where credit is due
 
 This Project is based on ESP-Bug by : https://github.com/willmendil
 

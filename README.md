@@ -38,6 +38,7 @@ And YOU ARE DONE! Now, you need to open the espbug.ino and setup the correct par
 
 **DEFAULT CREDENTIALS**
 > SSID - monbug
+> 
 > PASS - pwntoown
 
 Make sure to change the default credentials in "setup.h"

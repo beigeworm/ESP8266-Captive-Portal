@@ -39,12 +39,12 @@ by ESP8266 Community. I installed version 2.5.5 2.6.0.
 
 And YOU ARE DONE! Now, you need to open the espbug.ino and setup the correct parameters for the board.
 
-**DEFAULT CREDENTIALS**
+Make sure to change the default credentials in "config.h"
+
+**DEFAULT CREDENTIALS** (for the precompiled .bin file)
 > SSID - monbug
 > 
 > PASS - pwntoown
-
-Make sure to change the default credentials in "setup.h"
 
 
 **Convert webpages** (Not A Required Step)

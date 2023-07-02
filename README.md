@@ -39,8 +39,6 @@ And YOU ARE DONE! Now, you need to open the espbug.ino and setup the correct par
 
 **Convert webpages**
 
-you can look at this video for quick demo https://youtu.be/1cIXfD_Jz5s
-
 The web pages are saved in a compress form and in bytes. A small script is available to convert you website into the correct format. this runs in Python3. In the web_converter you must add your web pages in web_pages:
 
 \web_converter>tree /F

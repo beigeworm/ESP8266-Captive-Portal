@@ -1,8 +1,4 @@
 # ESP8266-Captive-Portal
-ESP8266 Captive Portal with Google login page
-
-This Project is based on ESP-Bug by : https://github.com/willmendil
-
 **INSTALLATION INSTRUCTIONS**
 
 **ESPBug**
@@ -58,10 +54,14 @@ Then you just need to run the python script knowing that anglerfish must be inst
 
 \web_converter>PYTHON webConverter.py
 
-**Credits**
-
 Then you'll need to recompile the project and upload it to the board. I know, it's not elegante, but it works.
+
+**Credits**
 CREDITS where credit is due
+
+ESP8266 Captive Portal with Google login page
+
+This Project is based on ESP-Bug by : https://github.com/willmendil
 
 Most of the code is strongly inspired by different repo from github, I just wanted to mention them here.
 

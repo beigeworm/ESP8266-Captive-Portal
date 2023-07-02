@@ -8,8 +8,12 @@ This Project is based on ESP-Bug by : https://github.com/willmendil
 **ESPBug**
 ESPBug is a rogue captive portal program which runs on the ESP8266 dev board, such as the NodeMCU (clones included). It is a social engennering tool which generates a WiFi network of a given name alluring people to connect to it and enter some credential.
 
-You should be able to download the binary from the release tab in github. https://github.com/willmendil/ESPBug/releases/tag/0.1 and just updload the binary through the arduino IDE. Look below to see how to setup the board.
+The compiled binary is in the source files as ESP8266 Captive Portal.BIN 
+
+and just updload the binary through the arduino IDE. Look below to see how to setup the board.
 From source
+
+**Install from source**
 
 You need to install the Arduino IDE 
 
@@ -19,11 +23,15 @@ From there you need a couple installations clicking the upload button. First got
 
 And click OK.
 
-Next, in library manager (Sketch -> Include Library -> Manage Libraries) search for `ArduinoJson`
+Next, in library manager (Sketch -> Include Library -> Manage Libraries) search for
+
+`ArduinoJson`
 
 From Benoit Blanchon. YOU MUST INSTALL VERSION 5.13.5 not version 6.
 
-Now you only need to install the board. Tools -> Board: "<SOME BOARD NAME>" -> Boards Manager. In the search bar, type `esp8266`
+Now you only need to install the board. Tools -> Board: "<SOME BOARD NAME>" -> Boards Manager. In the search bar, type
+
+`esp8266`
 
 by ESP8266 Community. I installed version 2.5.5 2.6.0.
 

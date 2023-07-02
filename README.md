@@ -1,8 +1,8 @@
 # ESP8266-Captive-Portal
 
 ESP8266 Captive Portal with Fake Google login page.
+![m_login](https://github.com/beigeworm/ESP8266-Captive-Portal/assets/93350544/d24d6650-4843-4652-af1b-c17b6d3a4fc7)
 
-![loginpage](https://github.com/beigeworm/ESP8266-Captive-Portal/assets/93350544/54345901-d5b9-454f-8eb7-c8f67f1c1e09)
 
 **INSTALLATION INSTRUCTIONS**
 

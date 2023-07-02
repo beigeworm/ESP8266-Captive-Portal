@@ -5,7 +5,7 @@ ESP8266 Captive Portal with Fake Google login page.
 ![loginpage](https://github.com/beigeworm/ESP8266-Captive-Portal/assets/93350544/7b6f2366-97d1-4668-aea4-a1b2ed8024cb)
 
 
-**INSTALLATION INSTRUCTIONS**
+# INSTALLATION INSTRUCTIONS
 
 **ESPBug**
 ESPBug is a rogue captive portal program which runs on the ESP8266 dev board, such as the NodeMCU (clones included). It is a social engennering tool which generates a WiFi network of a given name alluring people to connect to it and enter some credential.
